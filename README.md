@@ -1,34 +1,44 @@
-# WhoAmI – Personal Operating System
+# Johnson M. Vincent
 
-## Purpose
-This repository documents my transformation journey — mentally, physically, financially, and professionally.
+🔐 U.S. Navy Veteran | Active DoD Secret Clearance  
+🛡 CompTIA Security+ (IAT Level II)  
+☁️ AWS Solutions Architect (In Progress)  
+🎓 B.S. Information & Cybersecurity Operations (May 2026)
 
-Version 1.0: Survival & Experience  
-Version 2.0: Discipline & Mastery  
+---
 
-## Areas of Development
+## 🚀 Mission
 
-### 🛡 Cybersecurity & Cloud
-- AWS Solutions Architect preparation
+Cloud & Cybersecurity professional focused on secure infrastructure, automation, and defensive security operations. Building real-world AWS and DevSecOps projects aligned with DoD cloud environments.
+
+---
+
+## 🔧 Technical Focus
+
+- AWS Cloud Architecture (EC2, VPC, IAM, S3, RDS)
+- Linux & Windows Administration
 - Infrastructure as Code (Ansible / Terraform)
-- Linux mastery
-- Security lab documentation
+- Security Monitoring & Incident Response
+- Vulnerability Assessment & Ethical Hacking (CEH / NCL)
 
-### 💪 Physical Discipline
-- Structured fitness progression
-- Strength & endurance tracking
-- Consistency metrics
+---
 
-### 💰 Financial Intelligence
-- Debt elimination strategy
-- Asset-building mindset
-- Investment & property goals
+## 📂 Featured Projects
 
-### 🧠 Mindset & Leadership
-- Habit tracking
-- Accountability logs
-- Daily execution framework
+- 🔐 AWS Secure VPC Deployment
+- ⚙️ Ansible Windows Domain Automation
+- 🌐 CEH Web Exploitation Lab
+- 🐍 Python Security Tools (Port Scanner / Hash Checker)
 
-## Philosophy
-Growth is engineered, not wished for.
-This project is my blueprint.
+---
+
+## 📈 Current Focus
+
+- Passing AWS Solutions Architect – Associate
+- Expanding Infrastructure as Code projects
+- Building secure cloud deployment pipelines
+- Preparing for DoD Cloud Engineering roles
+
+---
+
+> “Most people list skills. I build and document them.”
